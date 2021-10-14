@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  font-family: 'Orbitron', sans-serif;
+}
+.nav{
+  font-size: 150%;
+}
+h1{
+  padding-left: 400px;
+  color: greenyellow;
+}
+a:visited{
+  color: greenyellow;
+}
+a:link{
+  color: greenyellow;
+}
+a:active{
+  color: greenyellow;
+}
+.dropdown-menu{
+  background-color: black;
+}
+.nav-link{
+  color: greenyellow;
+}
+.nav-link:hover{
+  color: white;
+}
+h5{
+  color: greenyellow;
+  font-size: 50px;
+}
